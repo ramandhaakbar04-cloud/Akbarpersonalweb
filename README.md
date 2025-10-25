@@ -15,7 +15,7 @@ Dibuat menggunakan HTML, CSS, dan JavaScript.
 
 ## Cara Menjalankan
 1. Download atau clone repository ini.
-2. Buka file `git clone https://github.com/ramandhaakbar04-cloud/Akbarpersonalweb.git` di browser.
+2. Buka file `https://ramandhaakbar04-cloud.github.io/Akbarpersonalweb/` di browser.
 
 ## Author
 Ramandha Akbar
