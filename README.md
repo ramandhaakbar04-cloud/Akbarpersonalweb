@@ -1,12 +1,13 @@
 # Personal Web Portfolio
 
-Website portfolio pribadi yang menampilkan profil, project, dan kontak.  
-Dibuat menggunakan HTML, CSS, dan JavaScript.
+website personal yang dibuat oleh RAMANDHA AKBAR ini bertujuan untuk mendapatkan interaksi kepada perusahaan dan pengguna 
+online serta dibentuk desain klasik retro.
+
+menggunakan aplikasi vs.code dan desain mandiri untuk representasi hasil yang memuaskan.
 
 ## Fitur
 - Tampilan responsive (mobile dan desktop)
-- Efek animasi scroll
-- Tombol WhatsApp untuk kontak langsung
+- Tombol khusus untuk kontak langsung
 
 ## Teknologi
 - HTML
