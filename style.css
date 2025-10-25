@@ -24,7 +24,6 @@ body {
 }
 
 
-/* Navigation */
 nav {
     display: flex;
     justify-content: space-between;
@@ -112,7 +111,7 @@ nav {
     pointer-events: none;
 }  
 
-/* Content Sections */
+
 .content-section {
     display: none;
     opacity: 0;
@@ -231,7 +230,7 @@ nav {
     box-shadow: 0 0 20px var(--glow-color);
 }
 
-/* Project Cards */
+
 .projects-grid {
     display: flex;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -245,17 +244,17 @@ nav {
     transition: all 0.3s ease;
 }
 
-/* === Style untuk Project Card === */
+
 .project-card {
-    background-color: hsla(0, 29%, 36%, 0.089);   /* Warna dasar kartu (opsional) */
+    background-color: hsla(0, 29%, 36%, 0.089);  
     border-radius: 15px;
     padding: 20px;
     text-align: center;
     box-shadow: 0 0 15px hsla(236, 59%, 38%, 0.3);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
+
   
-  /* === Gambar di dalam Project Card === */
   .project-card img {
     width: 220px;        
     height: auto;        
@@ -268,7 +267,7 @@ nav {
     box-shadow: none;
   }
   
-  /* === Stack teknologi di bawahnya === */
+
   .tech-stack {
     margin-top: 10px;
   }
@@ -319,7 +318,7 @@ nav {
 /* Responsive Design */
 @media (max-width: 768px) {
     .nav-links {
-        display: none;
+        display: flex;
         position: fixed;
         top: 80px;
         left: 0;
@@ -374,6 +373,7 @@ nav {
     }
 
     .skill-category {
-        max-width: 100%;  /* Full width on mobile */
+        max-width: 100%;  
     }
+    
 }
