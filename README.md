@@ -16,7 +16,7 @@ menggunakan aplikasi vs.code dan desain mandiri untuk representasi hasil yang me
 
 ## Cara Menjalankan
 1. Download atau clone repository ini.
-2. Buka file `https://ramandhaakbar04-cloud.github.io/Akbarpersonalweb/` di browser.
+2. Buka file *(https://akbar-alpha.vercel.app/)*  di browser.
 
 ## Author
 Ramandha Akbar
